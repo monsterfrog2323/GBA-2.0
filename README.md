@@ -8,4 +8,4 @@ https://monsterfrog2323.github.io/GBA-2.0/
 
 https://theclashman2.github.io/GBA-Emulator/
 
-# Made this just for school
+# Made(Really copied lol) this just for school
