@@ -1,7 +1,5 @@
-# Welcome to GBA Emulator
+Credit to the creator of IodineGBA/theclashman 2
 
-GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
-
-# GBA Emulator Website
+# Original GBA Emulator Website
 
 https://theclashman2.github.io/GBA-Emulator/
